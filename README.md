@@ -1,1 +1,1 @@
-# HyGNN-Drug-Drug-Interaction-Prediction-via-a-Hypergraph-Neural-Network
+# HyGNN: Drug-Drug Interaction Prediction via Hypergraph Neural Network
